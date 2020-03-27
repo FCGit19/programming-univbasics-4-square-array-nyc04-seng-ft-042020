@@ -8,6 +8,6 @@ def square_array(array)
     counter += 1
   end 
   
-  new_array
+  return new_array //# not necessary to use "return" statement
   
 end 
